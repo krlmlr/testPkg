@@ -1,0 +1,8 @@
+Package: testPkg
+Type: Package
+Title: Test packag
+Version: 0.1
+Date: 2016-09-01
+Authors: Hong Ooi
+Description: test
+License: MIT
