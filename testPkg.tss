@@ -2,10 +2,16 @@
 <ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ArrayOfArrayOfString>
     <ArrayOfString>
-      <string>C:\Users\hongooi\Documents\testPkg\R\foo.R</string>
+      <string>C:\Users\hongooi\documents\testPkg\R\foo.R</string>
     </ArrayOfString>
     <ArrayOfString>
-      <string>Team Explorer - Home</string>
+      <string>C:\Users\hongooi\documents\testPkg\.gitattributes</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>History - Appveyor</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>Team Explorer - Synchronization</string>
     </ArrayOfString>
   </ArrayOfArrayOfString>
 </ArrayOfArrayOfArrayOfString>
